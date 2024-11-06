@@ -18,6 +18,8 @@ frameborder="0" allowfullscreen class="video"></iframe>
 <iframe width="300" height="200" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13614364.2926%2C5267142.0132%2C-13573088.2973%2C5332877.8576%2C102100"></iframe>
 </div>
 
+[Alternate link to Crater Lake site](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13614364.2926%2C5267142.0132%2C-13573088.2973%2C5332877.8576%2C102100)
+
 ```{admonition} Topographic Maps
 Watch the videos for the following questions:
 
