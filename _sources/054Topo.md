@@ -14,9 +14,8 @@ frameborder="0" allowfullscreen class="video"></iframe>
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
-<div class="container">
-<iframe width="300" height="200" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13614364.2926%2C5267142.0132%2C-13573088.2973%2C5332877.8576%2C102100"></iframe>
-</div>
+
+<iframe width="600" height="450" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13614364.2926%2C5267142.0132%2C-13573088.2973%2C5332877.8576%2C102100"></iframe>
 
 [Alternate link to Crater Lake site](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13614364.2926%2C5267142.0132%2C-13573088.2973%2C5332877.8576%2C102100)
 
@@ -48,7 +47,7 @@ Click on the interactive maps and images to go to the map site.
 
 
 <iframe width="600" height="450" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-17328422.8732%2C9068274.7072%2C-17185332.7563%2C9131335.2555%2C102100"></iframe>
-
+[Alternate link to Kuskokwim River site](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-17328422.8732%2C9068274.7072%2C-17185332.7563%2C9131335.2555%2C102100)
 ```{figure} assets/kuskokwim-meander.png
 ---
 width: 600px
@@ -60,7 +59,7 @@ The Kuskokwim River is the longest free flowing river in the US.  In this sectio
 
 
 <iframe width="600" height="450" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-17278815.2419%2C8839575.1186%2C-16992635.008%2C8965696.2153%2C102100"></iframe>
-
+[Alternate link to Middle Fork Kuskokwim River site](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-17278815.2419%2C8839575.1186%2C-16992635.008%2C8965696.2153%2C102100)
 
 ```{figure} assets/kuskokwim-headwater.png
 ---
